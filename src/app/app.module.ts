@@ -21,4 +21,3 @@ import { HeroDetailComponent } from './hero-detail/hero-detail.component';
 })
 export class AppModule { }
 
-// hello
